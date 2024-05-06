@@ -3,7 +3,6 @@
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <title></title>
 </head>
 <body style="direction: rtl; text-align: center;">
   <h1 style="color:tomato;">درباره ایران</h1>
