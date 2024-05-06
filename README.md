@@ -38,7 +38,6 @@
         </tr>
         <tr>
             <td>مقدار ۳</td>
-            <td>مقدار ۴</td>
         </tr>
     </table>
 </body>
