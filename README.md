@@ -4,10 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>درباره ایران</title>
 </head>
 <body>
-    <h1>عنوان صفحه</h1>
+    <h1>درباره ایران</h1>
     <p>متن صفحه...</p>
     <a href="http://example.com">لینک سایت</a>
     <img src="path/to/your/image.jpg" alt="تصویر دلخواه">
