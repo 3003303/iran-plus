@@ -36,9 +36,6 @@
             <td>مقدار ۱</td>
             <td>مقدار ۲</td>
         </tr>
-        <tr>
-            <td>مقدار ۳</td>
-        </tr>
     </table>
 </body>
 </html>
